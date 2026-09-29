@@ -1,0 +1,67 @@
+# Operating systems
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets and local configuration
+.env
+.env.*
+*.key
+*.pem
+credentials*
+secrets*
+*_token*
+*_apikey*
+
+# Local environments
+.venv/
+venv/
+env/
+conda-env/
+miniconda*/
+anaconda*/
+
+# Large biological databases
+Pfam-A.hmm
+Pfam-A.hmm.*
+*.dmnd
+*.pin
+*.phr
+*.psq
+
+# Downloaded genome datasets
+03_downloads/
+downloads/
+raw_data/
+genomes/
+
+# Large/intermediate structural files
+colabfold_batch/
+colabfold_downloads/
+*.a3m
+
+# Local logs and temporary files
+*.log
+tmp/
+temp/
+
+# Machine-specific reports
+conda_info.txt
+conda_list.txt
+selected_env_vars.txt
+software_environment_report.txt
+
+# Local absolute-path configuration
+local_config.*

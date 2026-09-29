@@ -1,0 +1,13 @@
+group	species	taxon_id	target_n	priority_note
+Gram-negative bacterium	Pseudomonas aeruginosa	287	6	Opportunistic pathogen; hospital-associated infections; biofilm; Cif-like/epoxide hydrolase relevance
+Gram-negative bacterium	Klebsiella pneumoniae	573	6	Nosocomial pathogen; antimicrobial resistance; metabolic adaptation
+Gram-positive bacterium	Staphylococcus aureus	1280	6	Clinically relevant Gram-positive pathogen; One Health; environmental and hospital-associated strains
+Gram-positive bacterium	Streptococcus pneumoniae	1313	6	Respiratory pathogen; relevant to host sEH and bacterial clearance literature
+Fungus	Cryptococcus neoformans	5207	6	Encapsulated pathogenic yeast; environmental persistence; oxidative stress; lipid metabolism
+Fungus	Candida albicans	5476	6	Common opportunistic fungal pathogen; strong genomic resources
+Intestinal protozoan	Giardia intestinalis	5741	6	Intestinal protozoan pathogen; comparative eukaryotic pathogen group
+Intestinal protozoan	Entamoeba histolytica	5759	6	Invasive intestinal protozoan pathogen
+Hematozoan protozoan	Trypanosoma cruzi	5693	6	Hemoflagellate protozoan; Chagas disease; host-pathogen adaptation
+Hematozoan protozoan	Plasmodium falciparum	5833	6	Hematozoan parasite; malaria; strong reference resources
+Platyhelminth	Schistosoma mansoni	6183	6	Human trematode parasite; helminth comparative arm
+Nematode	Strongyloides stercoralis	6248	6	Human nematode parasite; helminth comparative arm

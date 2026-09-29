@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived software release and the associated research article when available."
+title: "Microbial Epoxide Hydrolase Discovery Pipeline"
+type: software
+version: 1.0.0
+authors:
+  - family-names: "Rodrigues"
+    given-names: "Wellington Francisco"
+  - family-names: "Kiss"
+    given-names: "Sophie"
+abstract: >-
+  Reproducible computational pipeline for genome mining, sequence-based
+  prioritization, phylogenetic analysis, motif and Pfam annotation,
+  genomic-context analysis, structural modeling, binding-pocket prediction,
+  and exploratory molecular docking of microbial epoxide hydrolase-like proteins.
+keywords:
+  - epoxide hydrolase
+  - alpha/beta hydrolase
+  - genome mining
+  - bioinformatics
+  - comparative genomics
+  - protein structure
+  - molecular docking
+  - reproducible research
+license: MIT
+repository-code: "https://github.com/WFR2023/microbial-epoxide-hydrolase-discovery-pipeline"

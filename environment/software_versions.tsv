@@ -1,0 +1,17 @@
+softwarepackage_versionexecutable_reported_versionrole
+BLAST+2.16.0+2.16.0+sequence_similarity
+MAFFT7.5267.526multiple_sequence_alignment
+IQ-TREE3.1.13.1.1phylogenetic_inference
+HMMER3.3.23.3.2Pfam_domain_search
+ColabFold1.6.11.6.1structure_prediction
+AlphaFold-ColabFold2.3.132.3.13structure_prediction
+MMseqs218.8cc5c18.8cc5cColabFold_sequence_search
+HHsuite3.3.03.3.0ColabFold_sequence_analysis
+Kalign22.042.04ColabFold_alignment
+OpenMM8.5.08.5.0structural_computation
+fpocket4.2.24.0binding_pocket_prediction
+Open Babel3.1.13.1.0ligand_and_receptor_preparation
+AutoDock Vina1.2.67ac2999-modmolecular_docking
+PyMOL Open-Source3.1.03.1.0structural_visualization
+Python_structural_environment3.11.153.11.15structural_pipeline
+Python_ColabFold_environment3.13.133.13.13ColabFold_environment
