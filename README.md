@@ -113,7 +113,7 @@ SHA-256 checksums are retained to distinguish the original internal script snaps
 
 Large public genome datasets and the Pfam database are not redistributed in this software repository.
 
-Study-level accession manifests, protocol information, and selected reproducibility artifacts will be deposited separately in the Open Science Framework (OSF).
+Study-level accession manifests, analytical metadata, and selected reproducibility artifacts are publicly available in the Open Science Framework (OSF) reproducibility package: DOI 10.17605/OSF.IO/BKZSP.
 
 ## Citation
 
