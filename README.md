@@ -115,11 +115,18 @@ Large public genome datasets and the Pfam database are not redistributed in this
 
 Study-level accession manifests, analytical metadata, and selected reproducibility artifacts are publicly available in the Open Science Framework (OSF) reproducibility package: DOI 10.17605/OSF.IO/BKZSP.
 
+## Funding
+
+The development of this software resource and the research underlying its analytical workflow received support from the Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG) through the Science, Technology, and Innovation Development Program (grant RED-00181-23; Call 012/2023, “Structuring Networks for Scientific Research or Technological Development”); from the Brazilian National Council for Scientific and Technological Development (CNPq) through Research Productivity funding (grant 314660/2026-7; Call CNPq No. 23/2025); and in part from the National Institute of Environmental Health Sciences (NIEHS) through the RIVER Award R35ES030443.
+
+The funding agencies had no role in the computational classification of candidates or in the interpretation of the analytical outputs reported by this software resource.
+
+
 ## Citation
 
 Citation metadata are provided in `CITATION.cff`.
 
-A versioned archival DOI will be generated through Zenodo for the first public software release.
+The versioned v1.0.0 software release is permanently archived in Zenodo: https://doi.org/10.5281/zenodo.23042986.
 
 ## License
 
